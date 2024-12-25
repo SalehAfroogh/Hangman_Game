@@ -1,7 +1,7 @@
-#Word Guessing Game
+# Word Guessing Game
 A simple Python-based command-line word guessing game where players try to guess a randomly selected word letter by letter within a limited number of attempts. The game is both entertaining and a great example of basic Python programming logic.
 
-##Features
+## Features
 Random Word Selection: The game selects a random word from a list of 10 randomly generated words.
 Interactive Gameplay: Users guess letters, and the game provides feedback on correct or incorrect guesses.
 Dynamic Word Display: The guessed letters are revealed in their correct positions while unguessed letters remain hidden.
@@ -10,7 +10,7 @@ Win or Lose Conditions:
 Players win by guessing all the letters correctly within the allowed attempts.
 Players lose if they fail to guess the word within the allowed attempts.
 
-##Installation
+## Installation
 Clone the Repository:
 
 bash
@@ -31,7 +31,7 @@ bash
 Copy code
 python -c "import nltk; nltk.download('words')"
 
-#How to Play
+# How to Play
 Run the game script:
 
 bash
@@ -47,7 +47,7 @@ Keep guessing until:
 You reveal the entire word (win).
 You run out of guesses (lose).
 
-#Testing
+# Testing
 To ensure the game works as expected, unit tests are provided. Run the tests using unittest:
 
 bash
@@ -86,6 +86,4 @@ Create a new branch for your feature/bugfix.
 Commit your changes and submit a pull request.
 
 
-#Acknowledgments
-NLTK for providing the English words corpus.
-Everyone contributing to making Python projects fun and educational.
+
