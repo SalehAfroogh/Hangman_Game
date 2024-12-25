@@ -31,7 +31,7 @@ bash
 Copy code
 python -c "import nltk; nltk.download('words')"
 
-# How to Play
+## How to Play
 Run the game script:
 
 bash
@@ -47,7 +47,7 @@ Keep guessing until:
 You reveal the entire word (win).
 You run out of guesses (lose).
 
-# Testing
+## Testing
 To ensure the game works as expected, unit tests are provided. Run the tests using unittest:
 
 bash
