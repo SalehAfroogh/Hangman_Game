@@ -53,23 +53,7 @@ To ensure the game works as expected, unit tests are provided. Run the tests usi
 bash
 Copy code
 python -m unittest test_word_game.py
-📝 Example Gameplay
-less
-Copy code
-Generated list of words: ['banana', 'apple', 'cherry', 'mango', 'orange', 'grape', 'pear', 'peach', 'melon', 'berry']
-The randomly selected word is: orange
 
-Word to guess: - - - - - -
-Please enter a single letter: a
-Good job! The letter 'a' is in the word.
-Word to guess: - - A - - -
-
-Please enter a single letter: z
-Your guess 'z' is incorrect. Try again.
-You have 5 guesses left.
-...
-
-Congratulations! You've guessed the word: ORANGE
 
 ## Project Structure
 bash
