@@ -70,16 +70,13 @@ You have 5 guesses left.
 ...
 
 Congratulations! You've guessed the word: ORANGE
-📂 Project Structure
+
+## Project Structure
 bash
+<img width="428" alt="Screenshot 2024-12-25 at 10 35 05 AM" src="https://github.com/user-attachments/assets/565ea5fe-7b2c-4d4c-93b2-079cec37a8c1" />
 
 
-## word-guessing-game/
-│
-├── guess_word.py       # Main game logic
-├── test_word_game.py   # Unit tests for the game
-├── README.md           # Documentation
-└── .gitignore          # Git ignored files
+
 
 
 Fork the repository.
