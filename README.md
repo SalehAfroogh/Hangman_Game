@@ -72,8 +72,9 @@ You have 5 guesses left.
 Congratulations! You've guessed the word: ORANGE
 📂 Project Structure
 bash
-Copy code
-word-guessing-game/
+
+
+## word-guessing-game/
 │
 ├── guess_word.py       # Main game logic
 ├── test_word_game.py   # Unit tests for the game
