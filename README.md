@@ -1,4 +1,4 @@
-# Word Guessing Game
+# Hangman: Word Guessing Game
 A simple Python-based command-line word guessing game where players try to guess a randomly selected word letter by letter within a limited number of attempts. The game is both entertaining and a great example of basic Python programming logic.
 
 ## Features
